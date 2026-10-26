@@ -1,0 +1,87 @@
+{
+  "name": "Fyzická bolest",
+  "shortName": "Fyzická bolest",
+  "description": "Rozhovor Jana Špačka s občanem ČR na Babišově předvolební kampani",
+  "color": "#cc5200",
+  "lang": "cs",
+  "author": {
+    "name": "Vikvoch",
+    "url": ""
+  },
+  "version": "1.0.0",
+  "rootUrl": "sounds/",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Budu nasranej",
+      "filename": "budu-nasranej.mp3"
+    },
+    {
+      "name": "Fyzická bolest",
+      "filename": "fyzicka-bolest.mp3"
+    },
+    {
+      "name": "Fyzicky úzko",
+      "filename": "fyzicky-uzko.mp3"
+    },
+    {
+      "name": "Manželka",
+      "filename": "manzelka.mp3"
+    },
+    {
+      "name": "Místo na těle",
+      "filename": "misto-na-tele.mp3"
+    },
+    {
+      "name": "Můj penis",
+      "filename": "muj-penis.mp3"
+    },
+    {
+      "name": "Na blití",
+      "filename": "na-bliti.mp3"
+    },
+    {
+      "name": "Nechci jít sedět",
+      "filename": "nechci-jit-sedet.mp3"
+    },
+    {
+      "name": "Penis do dveří",
+      "filename": "penis-do-dveri.mp3"
+    },
+    {
+      "name": "Penis upadne",
+      "filename": "penis-upadne.mp3"
+    },
+    {
+      "name": "Pivko",
+      "filename": "pivko.mp3"
+    },
+    {
+      "name": "Podnikáni",
+      "filename": "podnikani.mp3"
+    },
+    {
+      "name": "Práce",
+      "filename": "prace.mp3"
+    },
+    {
+      "name": "Prezident",
+      "filename": "prezident.mp3"
+    },
+    {
+      "name": "Špatně na čůráka",
+      "filename": "spatne-na-curaka.mp3"
+    }
+  ]
+}
